@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="forgotpassword">forgotpassword</string>
+    <string name="newuser">New User? Register Here</string>
+    <string name="email">E-mail Address</string>
+    <string name="signup">Register</string>
+    <string name="haveacc">Have an Account? Click Here to Login</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcomehomepage">Welcome to Expense Tracker</string>
+    <string name="newexpense">New Expense</string>
+    <string name="incomeTransaction">Transaction History</string>
+    <string name="debt">Debt</string>
+    <string name="logout">Log Out</string>
+    <string name="yourbalance">Your Balance:</string>
+    <string name="income">New Income</string>
+    <string name="categoryText">Category</string>
+    <string name="dateText">Date</string>
+
+    <string-array name="category_income">
+        <item>Salary</item>
+        <item>Gifts</item>
+        <item>Selling</item>
+        <item>Award</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="category_expense">
+        <item>General</item>
+        <item>Clothes</item>
+        <item>Entertainment</item>
+        <item>Food</item>
+        <item>Health</item>
+        <item>Household</item>
+        <item>Hygiene</item>
+        <item>Pets</item>
+        <item>Presents</item>
+        <item>Sports</item>
+        <item>Transportation</item>
+    </string-array>
+
+</resources>
